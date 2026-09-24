@@ -190,6 +190,7 @@
 - [Eightify](https://eightify.app/zh): chrome插件，节省观看长视频的时间，立即获取关键思想，分模块总结+时间戳摘要
 - [Summarizer.tube](https://summarizer.tube): Youtube视频一键总结，要点自带可点击时间戳，自动字幕也能读，覆盖50+种语言；另有免登录的字幕提取工具
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT): Bilibli视频内容一键总结，多模态文档 
+- [shortshort](https://www.shortshort.io): 长视频拆条成9:16竖屏短视频，逐字转写后选出首尾为完整句子的15-90秒片段，跟随人脸重新构图，配逐字字幕导出MP4
 
 ### 代码copilot & BI工具
 - [WindSurf](https://windsurfai.org/zh): 2.0版本支持动态记忆，可以记录你的使用习惯并进行持续优化
